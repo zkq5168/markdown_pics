@@ -1,1 +1,1 @@
-# markdown_pics
+# 新建这个库主要是为了通过issue生成MarkDown的图片URL格式所创建
